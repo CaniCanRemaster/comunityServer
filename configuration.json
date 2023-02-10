@@ -1,0 +1,17 @@
+{
+    "minecraft": {
+        "server":{
+            "host": "canicanminecraft.ddns.net",
+            "port": 19132,
+            "user": {
+                "name": "CaniCanBot"
+            }
+        }
+    },
+    "discord": {
+        "bot": {
+            "token": "MTA3MTg1OTQxNzkzNjU2MDI1OA.GP6Spd.d1sawgbJ6TxBEkE03EsbIndxrK17WRD8vnYe_o",
+            "channel": "1071863815391690752"
+        }
+    }
+}

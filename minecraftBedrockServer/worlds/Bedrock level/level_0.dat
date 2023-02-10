@@ -1,0 +1,21 @@
+2023-02-06 08:03:27; Critical; ARMOURY CRATE Matrix; 4016; 1] ----------------------------------------------------------------------------------------------------
+2023-02-06 08:03:27; Critical; ARMOURY CRATE Matrix; 4016; 1] [06/02/2023 8:03:27]
+2023-02-06 08:03:27; Critical; ARMOURY CRATE Matrix; 4016; 1] Gaming Center Version : 5.4.8.0
+2023-02-06 08:03:27; Critical; ARMOURY CRATE Matrix; 4016; 1] OS Version Build : 19045
+2023-02-06 08:03:27; Critical; ARMOURY CRATE Matrix; 4016; 1] ----------------------------------------------------------------------------------------------------
+2023-02-06 08:03:27; Information; LoadDebugOptions; 4016; 1] (186)DebugProductionLineEnabled:False, DebugProductLine:Unknown, DebugSubBrandEnabled:False, DebugSubBrand:Unknown, DebugLogEnabled:False, DebugLogLevel:Information, IgnoreOnePackageFlow:False, IgnoredPlugins:
+2023-02-06 08:03:27; Information; App; 4016; 1] (194)IsAdmin:True
+2023-02-06 08:03:27; Information; GameBoxPlugIn.GameBox-AppService; 4016; 1] (199)ProductLine Value=MotherBoard, False
+2023-02-06 08:03:27; Information; GameBoxPlugIn.GameBox-AppService; 4016; 1] (199)Subbrand Value=Asus, False
+2023-02-06 08:03:27; Information; GameBoxPlugIn.GameBox-AppService; 4016; 1] (199)isAcceptablePL=False, isAcceptableSB=False, PrivacyPolicy=True
+2023-02-06 08:03:28; Critical; GameBoxPlugIn.GetCountryCode; 4016; 5] (609)MX
+2023-02-06 08:03:28; Critical; GameBoxPlugIn.GetCountryCode; 4016; 5] (773)MX
+2023-02-06 08:03:30; Warning; PromotionTask; 4016; 3] (2289)AdobeEvents_JSON_ActivityList Deserialize failed: Error converting value "SN/PPID/MAC is Error." to type 'PromotionTask_Function.AdobeEvents_Result'. Path 'Result', line 1, position 49.
+2023-02-06 08:03:30; Error; PromotionTask; 4016; 3] (2289)SyncWithServerSSN: ActivityList is null.
+2023-02-06 08:03:30; Error; PromotionTask; 4016; 3] (2290)SyncWithServerSSN ResultCode: -4, Result: SN/PPID/MAC is Error.
+2023-02-06 14:13:34; Critical; ARMOURY CRATE Matrix; 25724; 1] ----------------------------------------------------------------------------------------------------
+2023-02-06 14:13:34; Critical; ARMOURY CRATE Matrix; 25724; 1] [06/02/2023 14:13:34]
+2023-02-06 14:13:34; Critical; ARMOURY CRATE Matrix; 25724; 1] Gaming Center Version : 5.4.8.0
+2023-02-06 14:13:34; Critical; ARMOURY CRATE Matrix; 25724; 1] OS Version Build : 19045
+2023-02-06 14:13:34; Critical; ARMOURY CRATE Matrix; 25724; 1] ----------------------------------------------------------------------------------------------------
+2023-

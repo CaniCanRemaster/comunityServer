@@ -1,0 +1,5 @@
+delete credentials from credentials manager
+git init
+git config --global user.name "CaniCanRemaster"
+git config --global user.email "canicanremasterizado@gmail.com"
+git remote add origin https://github.com/CaniCanRemaster/comunityServer.git
