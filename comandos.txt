@@ -1,5 +1,8 @@
 delete credentials from credentials manager
-git init
 git config --global user.name "CaniCanRemaster"
 git config --global user.email "canicanremasterizado@gmail.com"
+git init
 git remote add origin https://github.com/CaniCanRemaster/comunityServer.git
+git add .
+git commit -m "first backup"
+git push origin master
