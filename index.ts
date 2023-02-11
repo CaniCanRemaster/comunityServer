@@ -31,6 +31,8 @@ async function start() {
 
 }
 
+setInterval(()=>console.log("-->Executing..."), 360000);
+
 start();
 
 
