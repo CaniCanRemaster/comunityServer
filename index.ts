@@ -12,22 +12,22 @@ async function start() {
     let minecraftServerInstance = await minecraftServer.start();
     console.log("-->Minecraft server: ", minecraftServerInstance);
 
-    setTimeout(async function(){
-        await minecraftBot.start(configurationJson, receiveMessageFromMinecraft);
+    //setTimeout(async function(){
+        //await minecraftBot.start(configurationJson, receiveMessageFromMinecraft);
         //await discordBot.start(configurationJson, receiveMessageFromDiscord);
-    }, 20000);
+    //}, 20000);
 
-    function receiveMessageFromDiscord(message: any) {
-        //console.log("-->Message from discord", message);
-        //minecraft.writeMinecraftMessage(configurationJson, message);
-    }
+    // function receiveMessageFromDiscord(message: any) {
+    //     console.log("-->Message from discord", message);
+    //     minecraft.writeMinecraftMessage(configurationJson, message);
+    // }
 
-    function receiveMessageFromMinecraft(message: any) {
-        //console.log("-->Message from minecraft", message);
-        if (message.source_name) {
-            discordBot.writeDiscordMessage(configurationJson, `<${message.source_name}>: ${message.message}`);
-        }
-    }
+    // function receiveMessageFromMinecraft(message: any) {
+    //     //console.log("-->Message from minecraft", message);
+    //     if (message.source_name) {
+    //         discordBot.writeDiscordMessage(configurationJson, `<${message.source_name}>: ${message.message}`);
+    //     }
+    //}
 
 }
 
