@@ -2,7 +2,7 @@
     "minecraft": {
         "server":{
             "host": "canicanminecraft.ddns.net",
-            "port": 19132,
+            "port": 50001,
             "user": {
                 "name": "CaniCanBot"
             }
