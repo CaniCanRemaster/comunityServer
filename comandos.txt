@@ -6,3 +6,7 @@ git remote add origin https://github.com/CaniCanRemaster/comunityServer.git
 git add .
 git commit -m "first backup"
 git push origin master
+
+git add .
+git commit -m "Backup"
+git push
