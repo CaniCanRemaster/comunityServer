@@ -2,4 +2,3 @@ node_modules
 package-lock.json
 minecraftBedrockServer/bedrock_server.pdb
 .env
-configuration.json
